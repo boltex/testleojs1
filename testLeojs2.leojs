@@ -1,0 +1,19 @@
+{
+    "leoHeader": {
+        "fileFormat": 2
+    },
+    "vnodes": [
+        {
+            "gnx": "fil.20230408213357.1",
+            "vh": "a first node inleojs file"
+        },
+        {
+            "gnx": "fil.20230408213416.1",
+            "vh": "a script",
+            "status": 32
+        }
+    ],
+    "tnodes": {
+        "fil.20230408213416.1": "@language javascript\ng.es(\"hello from js\");\n"
+    }
+}
