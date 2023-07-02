@@ -10,6 +10,7 @@
 <v t="fil.20230408213257.1"><vh>a script</vh></v>
 </v>
 <v t="fil.20230408213319.1"><vh>a last node</vh></v>
+<v t="fil.20230701223723.1"><vh>@clean myFile.txt</vh></v>
 </vnodes>
 <tnodes>
 <t tx="fil.20230408213217.2">content
@@ -20,5 +21,10 @@ first node
 g.es('hi!')
 </t>
 <t tx="fil.20230408213319.1"></t>
+<t tx="fil.20230701223723.1">@nocolor
+blabla ligne 1
+blabla ligne 2
+blabla ligne 5
+</t>
 </tnodes>
 </leo_file>

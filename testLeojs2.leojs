@@ -14,6 +14,6 @@
         }
     ],
     "tnodes": {
-        "fil.20230408213416.1": "@language javascript\ng.es(\"hello from js\");\n"
+        "fil.20230408213416.1": "@language javascript\ng.es(\"hello from js\" + p.h);\n"
     }
 }
