@@ -22,7 +22,7 @@
 <t tx="fil.20230408213217.2">content
 of 
 first node
-</t>
+test durr</t>
 <t tx="fil.20230408213257.1">@language javascript
 g.es('hi!')
 console.log(
