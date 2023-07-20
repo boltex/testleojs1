@@ -25,7 +25,9 @@ first node
 </t>
 <t tx="fil.20230408213257.1">@language python
 g.es('hi!')
-console.log(g.gitAPI.repositories)</t>
+console.log(
+    g.gitAPI.repositories[0].state.HEAD
+)</t>
 <t tx="fil.20230408213319.1"></t>
 <t tx="fil.20230701223723.1">@nocolor
 blabla ligne 1
